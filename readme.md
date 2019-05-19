@@ -1,7 +1,7 @@
 **Readme**
 ===========
 
-**1. Group Members:**
+**Group Members:**
 ---------------------
 Yujia Zhang yz4953   N16623708
 
