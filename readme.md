@@ -19,8 +19,8 @@ Auto machine will be applied at this status to solve this problem. Generally, co
 
 **Instruction:**
 ----------------
-1. Use Google Colab to open the .ipynb file
-2. Use this link to get the data
+1. Use Google Colab to open the ml_pipeline.ipynb file
+2. Use this link to get the data, you must use your **NYU EMAIL ACCOUNT** https://drive.google.com/drive/folders/1L-4hnYBN1T80cbnWL19PMipM8z6NOHVC?usp=sharing
 3. Set Google Colab to GPU mode: Edit -> Note Setting -> Hardware Accelerator -> GPU
 4. Run the entire document and the performances of the four Kaggle competitions are showed at bottom
 
