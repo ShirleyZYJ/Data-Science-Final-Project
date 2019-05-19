@@ -4,7 +4,9 @@
 **1. Group Members:**
 ---------------------
 Yujia Zhang yz4953   N16623708
+
 Jingrui Yang jy2823  N11951218
+
 Jingyi Liu jl10018   N11220334
 
 **Problem Description:**
